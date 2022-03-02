@@ -1,0 +1,27 @@
+.ex{
+    color: rgb(43, 171, 226);
+}
+.box1{
+    margin: 20px;
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+}
+.box2{
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.boxes{
+    color:rgb(255, 255, 255);
+    background-color: rgb(255, 111, 0);
+    height: 200px;
+    width: 200px;
+    margin: 30px;
+}
